@@ -131,7 +131,7 @@ function wallF(i)
             }
         }
      }
-     //for(i=0; i<productName.length;i++){
+     //for(i=0; i<productName.lesngth;i++){
      //   document.writeln(productName[i],":: ", productQuantity[i],"  ",("<br>"));
      //}
 
