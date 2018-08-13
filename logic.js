@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-//HEJ
-=======
-
-//david är noob
->>>>>>> 256110bcba55a1cdce86ffa6def85b7733dd2525
+//DU LUKTAR PUNG
+//som fan
 var product;
 var wallType;
 var width;
