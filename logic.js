@@ -1,3 +1,5 @@
+
+//david är noob
 var product;
 var wallType;
 var width;
